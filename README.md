@@ -30,5 +30,8 @@
   
   ## &#x1f4c8; GitHub Stats
   
-  [![Stats](https://github-readme-stats.vercel.app/api?username=gabrielhz&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  
+<div align="center">
+  <a href="https://github.com/DionatanLM">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielhz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhz&layout=compact&langs_count=5&theme=radical"/>
+</div>
