@@ -1,7 +1,7 @@
 # http://localhost/ 
 ## 📰 About:
 
-- 📖  System Analysis & Development college
+- 📖  System Analysis & Development
  
 - 🌱  Learning Data Science & Data Analysis
 
