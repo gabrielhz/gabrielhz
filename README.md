@@ -3,7 +3,7 @@
 
 - 📖  System Analysis & Development
  
-- 🌱  Learning Data Science & Data Analysis
+- 🌱  Learning Data Science & Data Analytics
 
 - 🌑  Lua dev
 
