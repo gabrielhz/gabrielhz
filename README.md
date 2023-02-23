@@ -1,9 +1,9 @@
 # http://localhost/ 
 ## 📰 About:
 
-- 📖  System Analysis & Development
+- 📖  System Developer & Analyst
  
-- 🌱  Learning Data Science & Data Analytics
+- 🌱  Learning Back-End Engineering
 
 - 🌑  Lua dev
 
