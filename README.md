@@ -1,7 +1,7 @@
 # http://localhost/ 
 ## 📰 About:
 
-- 📖  System Developer & Analyst
+- 📖  System Develper & Analyst
  
 - 🌱  Learning Back-End Engineering
 
