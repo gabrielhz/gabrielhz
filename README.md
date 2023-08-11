@@ -1,11 +1,11 @@
 # http://localhost/ 
 ## 📰 About:
 
-- 📖  System Developer & Analyst
+- 📖  Back-End Developer
  
-- 🌱  Learning Back-End Engineering
+- 🌱  API REST, SQL, noSQL, GIT
 
-- 🌑  Lua dev
+- 🌑  Python, Lua, Java, Scala
 
 - 🛸  Living a dream
 
