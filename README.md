@@ -3,7 +3,7 @@
 
 - 📖  Back-End Developer
  
-- 🌱  API REST, SQL, noSQL, GIT
+- 🌱  API REST, CRUD, SQL, noSQL, GIT
 
 - 🌑  Python, Lua, Java, Scala
 
