@@ -5,7 +5,7 @@
  
 - 🌱  API REST, CRUD, SQL, noSQL, GIT
 
-- 🌑  Python, Lua, Java, Scala
+- 🌑  JavaScript
 
 - 🛸  Living a dream
 
@@ -15,17 +15,11 @@
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=9000ff)
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat-square&logo=apple&logoColor=white&color=9000ff)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=Visual-studio-code&logoColor=white&color=9000ff)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=9000ff)
-![](https://img.shields.io/badge/Code-Lua-informational?style=flat-square&logo=lua&logoColor=white&color=9000ff)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=9000ff)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat-square&logo=node.js&logoColor=white&color=9000ff)
-![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&logoColor=white&color=9000ff)
 ![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat-square&logo=yarn&logoColor=white&color=9000ff)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=9000ff)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=git&logoColor=white&color=9000ff)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=9000ff)
   
   
   ## &#x1f4c8; GitHub Stats
