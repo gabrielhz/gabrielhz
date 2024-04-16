@@ -3,7 +3,7 @@
 
 - 📖  Back-End Developer
  
-- 🌱  API REST, CRUD, SQL, noSQL, GIT
+- 🌱  API REST, SOLID, OOP & FP
 
 - 🌑  JavaScript
 
