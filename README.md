@@ -1,7 +1,7 @@
 # http://localhost/ 
 ## 📰 About:
 
-- 📖  Back-End Developer
+- 📖  Software Engeneer
  
 - 🌱  API REST, SOLID, OOP & FP
 
